@@ -1,0 +1,6 @@
+.footer-container {
+  width: 100%;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+}
